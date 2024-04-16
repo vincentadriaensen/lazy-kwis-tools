@@ -5,7 +5,6 @@ It takes Example/input_filenames.txt as data input; Each line represents a diffe
 - Add parameters to executable:
 	- [Required] Input filename
 	- [Optional] Output filename
-- Calculate the desired fontsize according to the teamnames length
 
 - Wishlist: 
 	- Add Excel input filename with location of teamname and teamnumber

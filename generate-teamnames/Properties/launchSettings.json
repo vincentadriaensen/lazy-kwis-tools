@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "generate-teamnames": {
+      "commandName": "Project",
+      "commandLineArgs": "-i Example/input_teamnames.txt -o output.docx"
+    }
+  }
+}
